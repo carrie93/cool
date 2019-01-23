@@ -1,4 +1,3 @@
 # cool
-# Data visualization
-https://carrie93.github.io/cool/
+https://carrie93.github.io/cool/datavisualization
 
